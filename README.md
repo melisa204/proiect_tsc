@@ -31,7 +31,8 @@
 | W25Q512JVEIQ | [Model](https://www.snapeda.com/parts/W25Q512JVEIQ/Winbond+Electronics/view-part/?ref=eda) | [Datasheet](https://www.winbond.com/resource-files/W25Q512JV%20SPI%20RevB%2006252019%20KMS.pdf) |
 | XC6220A331MR-G | [Model](https://componentsearchengine.com/part-view/XC6220A331MR-G/Torex) | [Datasheet](https://product.torexsemi.com/system/files/series/xc6220.pdf) |
 
-
+## Power Consumption Estimation
+![Block Diagram](https://github.com/user-attachments/assets/47cd3ff1-c6d8-4b44-916e-44f02d7c4b68)
 
 ## Hardware Description  
 
